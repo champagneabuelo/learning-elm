@@ -1,0 +1,8 @@
+var _user$project$Model$defaultKey = '😄';
+var _user$project$Model$Model = F3(
+	function (a, b, c) {
+		return {currentText: a, direction: b, selectedKey: c};
+	});
+var _user$project$Model$EmojiToText = {ctor: 'EmojiToText'};
+var _user$project$Model$TextToEmoji = {ctor: 'TextToEmoji'};
+var _user$project$Model$init = {currentText: '', direction: _user$project$Model$TextToEmoji, selectedKey: _user$project$Model$defaultKey};

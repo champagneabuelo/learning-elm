@@ -1,0 +1,329 @@
+var _user$project$EmojiConverter$supportedEmojis = {
+	ctor: '::',
+	_0: '😁',
+	_1: {
+		ctor: '::',
+		_0: '😂',
+		_1: {
+			ctor: '::',
+			_0: '😃',
+			_1: {
+				ctor: '::',
+				_0: '😄',
+				_1: {
+					ctor: '::',
+					_0: '😅',
+					_1: {
+						ctor: '::',
+						_0: '😆',
+						_1: {
+							ctor: '::',
+							_0: '😉',
+							_1: {
+								ctor: '::',
+								_0: '😊',
+								_1: {
+									ctor: '::',
+									_0: '😋',
+									_1: {
+										ctor: '::',
+										_0: '😌',
+										_1: {
+											ctor: '::',
+											_0: '😍',
+											_1: {
+												ctor: '::',
+												_0: '😏',
+												_1: {
+													ctor: '::',
+													_0: '😒',
+													_1: {
+														ctor: '::',
+														_0: '😓',
+														_1: {
+															ctor: '::',
+															_0: '😔',
+															_1: {
+																ctor: '::',
+																_0: '😖',
+																_1: {
+																	ctor: '::',
+																	_0: '😘',
+																	_1: {
+																		ctor: '::',
+																		_0: '😚',
+																		_1: {
+																			ctor: '::',
+																			_0: '😜',
+																			_1: {
+																				ctor: '::',
+																				_0: '😝',
+																				_1: {
+																					ctor: '::',
+																					_0: '😞',
+																					_1: {
+																						ctor: '::',
+																						_0: '😠',
+																						_1: {
+																							ctor: '::',
+																							_0: '😡',
+																							_1: {
+																								ctor: '::',
+																								_0: '😢',
+																								_1: {
+																									ctor: '::',
+																									_0: '😣',
+																									_1: {
+																										ctor: '::',
+																										_0: '😤',
+																										_1: {
+																											ctor: '::',
+																											_0: '😥',
+																											_1: {
+																												ctor: '::',
+																												_0: '😨',
+																												_1: {
+																													ctor: '::',
+																													_0: '😩',
+																													_1: {
+																														ctor: '::',
+																														_0: '😪',
+																														_1: {
+																															ctor: '::',
+																															_0: '😫',
+																															_1: {
+																																ctor: '::',
+																																_0: '😭',
+																																_1: {
+																																	ctor: '::',
+																																	_0: '😰',
+																																	_1: {
+																																		ctor: '::',
+																																		_0: '😱',
+																																		_1: {
+																																			ctor: '::',
+																																			_0: '😲',
+																																			_1: {
+																																				ctor: '::',
+																																				_0: '😳',
+																																				_1: {
+																																					ctor: '::',
+																																					_0: '😵',
+																																					_1: {
+																																						ctor: '::',
+																																						_0: '😷',
+																																						_1: {
+																																							ctor: '::',
+																																							_0: '😸',
+																																							_1: {
+																																								ctor: '::',
+																																								_0: '😹',
+																																								_1: {
+																																									ctor: '::',
+																																									_0: '😺',
+																																									_1: {
+																																										ctor: '::',
+																																										_0: '😻',
+																																										_1: {
+																																											ctor: '::',
+																																											_0: '😼',
+																																											_1: {
+																																												ctor: '::',
+																																												_0: '😽',
+																																												_1: {
+																																													ctor: '::',
+																																													_0: '😾',
+																																													_1: {
+																																														ctor: '::',
+																																														_0: '😿',
+																																														_1: {
+																																															ctor: '::',
+																																															_0: '🙀',
+																																															_1: {
+																																																ctor: '::',
+																																																_0: '🙅',
+																																																_1: {
+																																																	ctor: '::',
+																																																	_0: '🙆',
+																																																	_1: {
+																																																		ctor: '::',
+																																																		_0: '🙇',
+																																																		_1: {
+																																																			ctor: '::',
+																																																			_0: '🙈',
+																																																			_1: {
+																																																				ctor: '::',
+																																																				_0: '🙉',
+																																																				_1: {
+																																																					ctor: '::',
+																																																					_0: '🙊',
+																																																					_1: {
+																																																						ctor: '::',
+																																																						_0: '🙋',
+																																																						_1: {
+																																																							ctor: '::',
+																																																							_0: '🙌',
+																																																							_1: {
+																																																								ctor: '::',
+																																																								_0: '🙍',
+																																																								_1: {
+																																																									ctor: '::',
+																																																									_0: '🙎',
+																																																									_1: {
+																																																										ctor: '::',
+																																																										_0: '🙏',
+																																																										_1: {
+																																																											ctor: '::',
+																																																											_0: '🚑',
+																																																											_1: {
+																																																												ctor: '::',
+																																																												_0: '🚒',
+																																																												_1: {
+																																																													ctor: '::',
+																																																													_0: '🚓',
+																																																													_1: {
+																																																														ctor: '::',
+																																																														_0: '🚕',
+																																																														_1: {ctor: '[]'}
+																																																													}
+																																																												}
+																																																											}
+																																																										}
+																																																									}
+																																																								}
+																																																							}
+																																																						}
+																																																					}
+																																																				}
+																																																			}
+																																																		}
+																																																	}
+																																																}
+																																															}
+																																														}
+																																													}
+																																												}
+																																											}
+																																										}
+																																									}
+																																								}
+																																							}
+																																						}
+																																					}
+																																				}
+																																			}
+																																		}
+																																	}
+																																}
+																															}
+																														}
+																													}
+																												}
+																											}
+																										}
+																									}
+																								}
+																							}
+																						}
+																					}
+																				}
+																			}
+																		}
+																	}
+																}
+															}
+														}
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+};
+var _user$project$EmojiConverter$supportedLetters = A2(
+	_elm_lang$core$List$map,
+	_elm_lang$core$String$fromChar,
+	A2(
+		_elm_lang$core$List$map,
+		_elm_lang$core$Char$fromCode,
+		_elm_lang$core$List$concat(
+			{
+				ctor: '::',
+				_0: A2(_elm_lang$core$List$range, 97, 122),
+				_1: {
+					ctor: '::',
+					_0: A2(_elm_lang$core$List$range, 65, 90),
+					_1: {
+						ctor: '::',
+						_0: A2(_elm_lang$core$List$range, 48, 57),
+						_1: {ctor: '[]'}
+					}
+				}
+			})));
+var _user$project$EmojiConverter$rotateEmojis = function (key) {
+	return _elm_lang$core$List$concat(
+		function (_p0) {
+			var _p1 = _p0;
+			return {
+				ctor: '::',
+				_0: _p1._1,
+				_1: {
+					ctor: '::',
+					_0: _p1._0,
+					_1: {ctor: '[]'}
+				}
+			};
+		}(
+			A3(
+				_elm_lang$core$Basics$flip,
+				_elm_community$list_extra$List_Extra$splitAt,
+				_user$project$EmojiConverter$supportedEmojis,
+				A2(
+					_elm_lang$core$Maybe$withDefault,
+					0,
+					A2(_elm_community$list_extra$List_Extra$elemIndex, key, _user$project$EmojiConverter$supportedEmojis)))));
+};
+var _user$project$EmojiConverter$convert = F4(
+	function (orderedKeys, orderedValues, splitter, string) {
+		var lookupTable = _elm_lang$core$Dict$fromList(
+			A2(_elm_community$list_extra$List_Extra$zip, orderedKeys, orderedValues));
+		var getValueOrReturnKey = function (key) {
+			return A2(
+				_elm_lang$core$Maybe$withDefault,
+				key,
+				A2(_elm_lang$core$Dict$get, key, lookupTable));
+		};
+		return A2(
+			_elm_lang$core$String$join,
+			'',
+			A2(
+				_elm_lang$core$List$map,
+				getValueOrReturnKey,
+				A3(_elm_lang$core$Regex$split, _elm_lang$core$Regex$All, splitter, string)));
+	});
+var _user$project$EmojiConverter$emojiToText = F2(
+	function (key, emojis) {
+		var splitter = _elm_lang$core$Regex$regex('([\\uD800-\\uDBFF][\\uDC00-\\uDFFF])');
+		return A4(
+			_user$project$EmojiConverter$convert,
+			_user$project$EmojiConverter$rotateEmojis(key),
+			_user$project$EmojiConverter$supportedLetters,
+			splitter,
+			emojis);
+	});
+var _user$project$EmojiConverter$textToEmoji = F2(
+	function (key, text) {
+		return A4(
+			_user$project$EmojiConverter$convert,
+			_user$project$EmojiConverter$supportedLetters,
+			_user$project$EmojiConverter$rotateEmojis(key),
+			_elm_lang$core$Regex$regex(''),
+			text);
+	});
